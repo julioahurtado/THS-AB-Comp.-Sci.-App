@@ -3,7 +3,7 @@
 ## Scheduke Android application
 
   This project was comepleted by @RicoCruzSuave and myself for a final project in our Computer Science class senior year of high school.
-  It's is pretty rough to follow as we weeren't familiar with commenting our code correctly as we didn't expect others to see this code.
+  It's is pretty rough to follow as we weren't familiar with commenting our code correctly as we didn't expect others to see this code.
   A rough break down of the work done is as follows:
   
   * [@RicoCruzSuave](https://github.com/RicoCruzSuave): Back End
